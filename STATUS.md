@@ -1,16 +1,16 @@
 # STATUS (Reg no: 23062 | D = 2 | T = 62)
 
-## Done
-- A1, A2: predicted + explained
-- B1, B2, B3
-- C1, C2, C3, C4, C5
-- D1, D2
-- Part E
-- Part F: formatRwf, isValidPin, sendMoney, buyAirtime, main
-- Part G: debugging log
+## Completed
+- A1 and A2: I predicted the outputs and explained why they happened.
+- B1, B2 and B3 are done.
+- C1 to C5 are complete.
+- D1 and D2 are complete.
+- Part E is done.
+- For Part F, I completed formatRwf, isValidPin, sendMoney, buyAirtime and main.
+- Part G: I wrote my debugging log and explained the problems I fixed.
 
-## In progress
-- Nothing
+## Currently working on
+- Nothing at the moment.
 
-## Stuck on
-- Nothing
+## Challenges
+- I do not have any challenges right now.
