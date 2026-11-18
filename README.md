@@ -6,5 +6,3 @@
 // T = 62
 // GitHub username: <karlyndollars-star>
 
-const String regNo = '23062';
-
